@@ -26,4 +26,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  It will make your life as a developer (or just user of files) easier. Sure you have to learn some stuff, but once you do, you will have the ability to control your codebase in a centralized, backed up, and efficent way. On top of that, knowledge of git increases your employability. Every real world developer position you will find will utilize some form of source control. If they don't, I would encourage you to seek opportunities elsewhere. Haven't convinced you yet? GIT IS FREE! and there are tons of free git hosting services. As you should be able to tell by now, I am rather fond of GitHub myself.
 
+- [X] Why use git?
+
 I learned how to make this readme [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links).

@@ -13,7 +13,10 @@
 - [ ] Let's review
 
 
+## What is git?
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Git is a source control system that allows for historical snapshotting of files and sharing of those files amongst one or more people. Basically it's Google Drive with the ability to snapshot your file changes (but with so, so much more). This allows you to better keep track of changes in a filebase, give yourself access to your files from any machine with access to the internet, and the ability to implement new features to a repository without stepping on your fellow collaborator's toes. Also, Git was created by Linus Torvalds in 2005 for development of the Linux kernel, so there is your ethos appeal.
 
-I learned how to make this readme [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links).
+- [X] What is git?
+
 

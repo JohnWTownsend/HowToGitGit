@@ -24,7 +24,13 @@
 
 ## Why use git?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  It will make your life as a developer (or just user of files) easier. Sure you have to learn some stuff, but once you do, you will have the ability to control your codebase in a centralized, backed up, and efficent way. On top of that, knowledge of git increases your employability. Every real world developer position you will find will utilize some form of source control. If they don't, I would encourage you to seek opportunities elsewhere. Haven't convinced you yet? GIT IS FREE! and there are tons of free git hosting services. As you should be able to tell by now, I am rather fond of GitHub myself.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  It will make your life as a developer (or just user of files) easier. Sure you have to learn some stuff, but once you do, you will have the ability to control your codebase in a centralized, backed up, and efficent way. On top of that, knowledge of git increases your employability. Every real world developer position you will find will utilize some form of source control. If they don't, I would encourage you to seek opportunities elsewhere. Haven't convinced you yet? GIT IS FREE! and there are tons of free git hosting services.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While git is awesome, it isn't the only Version Control System out there. Some other ones include Apache Subversion (SVN) and Mercurial, or Microsoft's Team Foundation Version Control. I don't know much about these, but as far as popularity via Google search goes, Git reigns supreme.
+
+![gitmetrics](gitMetrics.png)
+
 
 - [X] Why use git?
 

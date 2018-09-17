@@ -83,6 +83,7 @@ There are many ways to work with branches in GitHub Online and Desktop, but most
 
   Commands:<br/>
   `git branch                          // lists all branches`<br/>
+  `git branch [nameOfBranch]           // makes new branch named as specified`<br/>
   `git checkout [nameOfBranch]         // switches to the branch specified`<br/>
   `git checkout -b [nameOfNewBranch]   // creates a new branch with the name specified and switches to it`<br/>
   `git branch -D [nameOfBranch]        // deletes the branch specified`<br/>
@@ -103,8 +104,12 @@ When we are convinced that we have completed a feature, we want to get our chang
 
 
 
-## Useful commands
-
+## Other Useful commands
+Commands:<br/>
+`git init &nbsp;&nbsp;&nbsp;&nbsp; // initialize a new repo`<br/> 
+`git clone [repoName] &nbsp;&nbsp;&nbsp;&nbsp; // clone a preexisting repo`<br/>
+`git status &nbsp;&nbsp;&nbsp;&nbsp; // lists all changes in your current branch`<br/>
+`git stash &nbsp;&nbsp;&nbsp;&nbsp; // move your current commits to a stash where you can later pop them off`<br/>
 
 - [X] Some useful commands
 

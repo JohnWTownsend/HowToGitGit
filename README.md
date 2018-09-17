@@ -1,5 +1,5 @@
 # HowToGitGit
-## A repo for my presentation on git for DSU Computer Club
+## A Beginner's Guide to Git
 
 ### Aim to answer/accomplish these questions/tasks.
 - [ ] What is Git?

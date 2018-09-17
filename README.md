@@ -4,6 +4,7 @@
 ### Aim to answer/accomplish these questions/tasks.
 - [ ] What is git?
 - [ ] Why use git?
+- [ ] What is GitHub?
 - [ ] Let's make a repo
 - [ ] Let's clone that repo
 - [ ] Let's add some files and make a commit
@@ -33,5 +34,13 @@
 
 
 - [X] Why use git?
+
+## What is GitHub?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well now that we have an idea of what Git is, we need to talk about git hosting platforms. Git hosting platforms are what make Git as a technology available on the web. Without some sort of centralized server/hosting platform, Git would only give you the ability to snapshot and divide your filebase locally. All of the sharing capabilities and bells and whistles come from a hosting platform. Github is among the most popular of these platforms. Github currently hosts more than 28 million users, more than 85 million repositories, and is home to many prestigious open source projects. 
+
+![prestigiousProjects](gitHubProjects.png)
+
+- [X] What is GitHub?
 
 I learned how to make this readme [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links).

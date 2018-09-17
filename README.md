@@ -60,7 +60,7 @@ Most easily done from GitHub online or GitHub Desktop
 If we ever need to update our local version of the repo, we do so using a **pull**.
 
   Commands: <br/>
-  `git pull` // get latest version of current branch from server<br/>
+  `git pull // get latest version of current branch from server`<br/>
 
 - [X] Let's clone that repo
 
@@ -70,9 +70,9 @@ If we ever need to update our local version of the repo, we do so using a **pull
   Can easily do this on GitHub Online or GitHub Desktop
   
   To complete this from the command line we:<br/>
-    `git add [filename]`            // Add file to the commit<br/>
-    `git commit -m [commitMessage]` // Commit our changes with a message, without opening VIM<br/>
-    `git push`                      // Send this commit to the remote branch (at this point our branch is just master)<br/>
+    `git add [filename]            // Add file to the commit`<br/>
+    `git commit -m [commitMessage] // Commit our changes with a message, without opening VIM`<br/>
+    `git push                      // Send this commit to the remote branch (at this point our branch is just master)`<br/>
 
 - [X] Let's add some files and make a commit
 
@@ -82,17 +82,17 @@ If we ever need to update our local version of the repo, we do so using a **pull
 There are many ways to work with branches in GitHub Online and Desktop, but most of the time, the command line is the most useful.
 
   Commands:<br/>
-  `git branch`                          // lists all branches<br/>
-  `git checkout [nameOfBranch]`         // switches to the branch specified<br/>
-  `git checkout -b [nameOfNewBranch]`   // creates a new branch with the name specified and switches to it<br/>
-  `git branch -D [nameOfBranch]`        // deletes the branch specified<br/>
+  `git branch                          // lists all branches`<br/>
+  `git checkout [nameOfBranch]         // switches to the branch specified`<br/>
+  `git checkout -b [nameOfNewBranch]   // creates a new branch with the name specified and switches to it`<br/>
+  `git branch -D [nameOfBranch]        // deletes the branch specified`<br/>
 
 - [X] Let's branch
 
 When we are convinced that we have completed a feature, we want to get our changes from our branch into master. We do this either by making a **merge** or a **pull request**. These two methods basically take all of the files we have changed in our branch, and seemlessly add our changes to the master branch. **Pull requests** are specific to GitHub and allow you to set some more rules and reviews before "merging" a branch into master, this is especially useful when using Git in a team.
 
   Commands:<br/>
-  `git merge [branchName]`    // merges the code from the specified branch into the current branch<br/>
+  `git merge [branchName]    // merges the code from the specified branch into the current branch`<br/>
   
 - [X] Let's merge that branch back to master
 

@@ -106,10 +106,10 @@ When we are convinced that we have completed a feature, we want to get our chang
 
 ## Other Useful commands
 Commands:<br/>
-`git init &nbsp;&nbsp;&nbsp;&nbsp; // initialize a new repo`<br/> 
-`git clone [repoName] &nbsp;&nbsp;&nbsp;&nbsp; // clone a preexisting repo`<br/>
-`git status &nbsp;&nbsp;&nbsp;&nbsp; // lists all changes in your current branch`<br/>
-`git stash &nbsp;&nbsp;&nbsp;&nbsp; // move your current commits to a stash where you can later pop them off`<br/>
+`git init  // initialize a new repo`<br/> 
+`git clone [repoName]  // clone a preexisting repo`<br/>
+`git status  // lists all changes in your current branch`<br/>
+`git stash  // move your current commits to a stash where you can later pop them off`<br/>
 
 - [X] Some useful commands
 
